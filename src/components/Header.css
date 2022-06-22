@@ -1,0 +1,13 @@
+.title {
+  font-size: 2em;
+}
+
+.subtitle {
+  font-weight: bold;
+}
+
+.bintang {
+  margin-top: 50px;
+  font-size: 2em;
+  color: rgb(8, 235, 129);
+}
